@@ -1,9 +1,3 @@
-#Tai Vo
-#ITSE-1302
-#12/5/2022
-#GAME EXPLORATION ASSIGNMENT
-#SOURCE : https://copyassignment.com/snake-game-in-python-using-pygame/
-
 import pygame
 import random
 # initializing pygame
